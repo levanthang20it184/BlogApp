@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LeThang/AndroidStudioProjects/blogapp-android-app-master/app/src/main/res/layout/activity_add_post.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/LeThang/AndroidStudioProjects/blogapp-android-app-master/app/src/main/res/layout/activity_auth.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/LeThang/AndroidStudioProjects/blogapp-android-app-master/app/src/main/res/layout/activity_comment.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/LeThang/AndroidStudioProjects/blogapp-android-app-master/app/src/main/res/layout/activity_edit_post.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/LeThang/AndroidStudioProjects/blogapp-android-app-master/app/src/main/res/layout/activity_edit_user_info.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/LeThang/AndroidStudioProjects/blogapp-android-app-master/app/src/main/res/layout/activity_home.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/LeThang/AndroidStudioProjects/blogapp-android-app-master/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/LeThang/AndroidStudioProjects/blogapp-android-app-master/app/src/main/res/layout/activity_on_board.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/LeThang/AndroidStudioProjects/blogapp-android-app-master/app/src/main/res/layout/activity_user_info.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/LeThang/AndroidStudioProjects/blogapp-android-app-master/app/src/main/res/layout/layout_account.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/LeThang/AndroidStudioProjects/blogapp-android-app-master/app/src/main/res/layout/layout_account_post.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/LeThang/AndroidStudioProjects/blogapp-android-app-master/app/src/main/res/layout/layout_comment.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/LeThang/AndroidStudioProjects/blogapp-android-app-master/app/src/main/res/layout/layout_home.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/LeThang/AndroidStudioProjects/blogapp-android-app-master/app/src/main/res/layout/layout_post.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/LeThang/AndroidStudioProjects/blogapp-android-app-master/app/src/main/res/layout/layout_sign_in.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/LeThang/AndroidStudioProjects/blogapp-android-app-master/app/src/main/res/layout/layout_sign_up.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/LeThang/AndroidStudioProjects/blogapp-android-app-master/app/src/main/res/layout/view_pager.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/LeThang/AndroidStudioProjects/blogapp-android-app-master/app/src/main/res/mipmap-anydpi-v26/blog_icon.xml" value="0.14375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
